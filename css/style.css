@@ -1,0 +1,38 @@
+.input-field {
+    width: 40%;
+}
+
+#spinner {
+    display: none;
+}
+
+#relese {
+    color: gray;
+}
+
+.card-item {
+    background-color: rgba(225, 225, 225, 0.412);
+    color: black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.phone-images {
+    width: 40%;
+    transition: .5s;
+}
+
+.phone-images:hover {
+    transform: scale(1.2);
+    overflow: hidden;
+}
+
+.detail-button {
+    color: black;
+    transition: .4s;
+}
+
+.detail-button:hover {
+    transform: scale(1.1);
+    border-radius: 5px;
+}
